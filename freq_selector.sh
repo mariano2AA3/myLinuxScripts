@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# # # # # # # # # # # # # # # # # # # # # # # 
-#											#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#							#
 #	Autor: 		Mariano Hernandez Garcia	#
-#	Licencia: 	en tramite...				#
-#	Fecha:		03/12/2014					#
-#											#
-# # # # # # # # # # # # # # # # # # # # # # # 
+#	Licencia: 	en tramite...			#
+#	Fecha:		03/12/2014			#
+#							#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 
 # VARIABLES
