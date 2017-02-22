@@ -1,0 +1,15 @@
+# Colores
+term xterm-256color
+
+# Quitar el mensaje inicial
+startup_message off
+
+# Al hacer click sobre una vista, se cambia a ella
+mousetrack on
+termcapinfo xterm* ti@:te@
+
+# Mostrar barra
+hardstatus alwayslastline 
+shelltitle 'screen'
+
+hardstatus string '%{gk}[%{wk}%?%-Lw%?%{=b kR}(%{W}%n*%f %t%?(%u)%?%{=b kR})%{= w}%?%+Lw%?%? %{g}][ %{= w}%d/%m/%Y %0C:%s%a%{g} ]%{W}'
